@@ -8,6 +8,7 @@ media/
 static/
 # Backup files # 
 *.bak 
+project/local_settings.py
 
 # If you are using PyCharm # 
 # User-specific stuff
